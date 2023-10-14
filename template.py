@@ -8,8 +8,14 @@ project_name = "AGVI_python"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
-    f"src/{project_name}/__init__.py",
+     f"src/{project_name}/__init__.py",
     f"src/{project_name}/utils/__init__.py",
+    f"src/{project_name}/utils/agvi.py",
+    f"src/{project_name}/utils/gma.py",
+    f"src/{project_name}/utils/KF.py",
+    f"src/{project_name}/utils/convert_str.py",
+    f"src/{project_name}/utils/indices.py",
+    f"src/{project_name}/utils/common.py",
     "main.py",
     "requirements.txt",
     "research/trials.ipynb"
