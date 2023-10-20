@@ -31,9 +31,22 @@ python example.py
   <img src=agvi_result.png width="700px" height="500px" >
 </p>
 
-## Build With
+## Coding
 
-[![Built with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Built with Python](https://img.shields.io/badge/Built%20with-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+## Authors
+
+- **Bhargob Deka** - _Main Development_ - [webpage](https://profs.polymtl.ca/jagoulet/Site/Goulet_web_page_BDEKA.html)
+- **James A-Goulet** - _Initial code and development_ - [webpage](http://www.polymtl.ca/cgm/jagoulet/Site/Goulet_web_page_MAIN.html)
+
+## Reference
+
+Deka, B., & Goulet, J. A. (2023). [Approximate Gaussian variance inference for state‐space models](https://onlinelibrary.wiley.com/doi/full/10.1002/acs.3667). _International Journal of Adaptive Control and Signal Processing._
+
+## Acknowledgement
+
+The developpement of this code was financially supported by research grants from Hydro-Quebec, and the Natural Sciences and Engineering Research Council of Canada (NSERC)
 
 ## License
 
